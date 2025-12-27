@@ -1,0 +1,21 @@
+.
+├── config
+│   └── db.js
+├── controllers
+│   ├── auth.controller.js
+│   ├── equipment.controller.js
+│   └── request.controller.js
+├── index.js
+├── middleware
+│   └── auth.middleware.js
+├── models
+│   ├── Equipment.js
+│   ├── Request.js
+│   └── User.js
+├── routes
+│   ├── auth.routes.js
+│   ├── equipment.routes.js
+│   └── request.routes.js
+└── structure.txt
+
+6 directories, 13 files
