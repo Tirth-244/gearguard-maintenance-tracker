@@ -1,29 +1,13 @@
-<<<<<<< HEAD
-# Dependencies
-node_modules
+# Node
+node_modules/
+npm-debug.log*
 
-# Production
-dist
-dist-ssr
-*.local
-
-# Logs
-*.log
-
-# Editor
-.vscode
-.idea
-*.swp
-*.swo
-
-# Environment
+# Env files
 .env
-.env.local
-.env.production
+
+# Build
+dist/
+build/
 
 # OS
 .DS_Store
-Thumbs.db
-=======
-.DS_Store
->>>>>>> 2144dfd1b09aba519d3df65d5f5c87f357750762
