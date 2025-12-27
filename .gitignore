@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+
+# Production
+dist
+dist-ssr
+*.local
+
+# Logs
+*.log
+
+# Editor
+.vscode
+.idea
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
